@@ -10,7 +10,7 @@ Um amante por tecnologia e jovem aventureiro em busca de mais XP para Vida 😉
 
 ## Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JMauricioSilva&repo=ClonTiktok)](https://github.com/anuraghazra/github-readme-stat) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JMauricioSilva&repo=pag-upload)](https://github.com/anuraghazra/github-readme-stat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JMauricioSilva&repo=ClonTiktok)](https://github.com/anuraghazra/github-readme-stat) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JMauricioSilva&repo=pag-upload)](https://github.com/anuraghazra/github-readme-stat) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JMauricioSilva&repo=analisepro)](https://github.com/anuraghazra/github-readme-stat)
 
 ## Linguagem Utilizadas
 
