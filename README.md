@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**JMauricioSilva/JMauricioSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quem é Mauricio
 
-Here are some ideas to get you started:
+Um amante por tecnologia e jovem aventureiro em busca de mais XP para Vida 😉
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Detalhes
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMauricioSilva&show_icons=true&theme=radical)
+
+## Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JMauricioSilva&repo=ClonTiktok)](https://github.com/anuraghazra/github-readme-stat) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JMauricioSilva&repo=pag-upload)](https://github.com/anuraghazra/github-readme-stat) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JMauricioSilva&repo=AnalisePro)](https://github.com/anuraghazra/github-readme-stat)
+
+## Longuagem Utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMauricioSilva&layout=compact)
+
+
